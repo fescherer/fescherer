@@ -7,17 +7,17 @@ Here are some of my projects and a lot of tests, feel free to use them as you li
 - Estudante de Ciência da Computação
 
 # Interesses 😎
-**JavaScript 
-C#
-Java
-Python**
+- **JavaScript**
+- **C#**
+- **Java**
+- **Python**
 
 # Jogos Favoritos 🎮
-Terraria 
-Bloons Tower Defence
-Stardew Valley
-Cuphead
-Project Zomboid
+- *Terraria* 
+- *Bloons Tower Defence*
+- *Stardew Valley*
+- *Cuphead*
+- *Project Zomboid*
 
 
 <!--

@@ -13,27 +13,6 @@ Here are some of my projects and a lot of tests, feel free to use them as you li
 - **Python**
 - **Game Dev**
 
-# Favorite Games 🎮
-- [Terraria](https://store.steampowered.com/app/105600/Terraria/)
-- [Celeste](https://store.steampowered.com/app/504230/Celeste/)
-- [Bloons Tower Defence](https://store.steampowered.com/app/960090/Bloons_TD_6/)
-- [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
-- [Cuphead](https://store.steampowered.com/app/268910/Cuphead/)
-- [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/)
+- 🌱 I’m currently learning React
+- 🔭 I’m currently working on App development
 
-
-
-<!--
-**ofelipescherer/ofelipescherer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

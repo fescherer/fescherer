@@ -13,6 +13,7 @@ Here are some of my projects and a lot of tests, feel free to use them as you li
 - **Python**
 - **Game Dev**
 
-- 🌱 I’m currently learning React
-- 🔭 I’m currently working on App development
+# Atual Situation 😵
+- I’m currently learning React
+- I’m currently working on App development
 

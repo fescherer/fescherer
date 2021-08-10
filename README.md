@@ -16,6 +16,6 @@ Here are some of my projects and a lot of tests, feel free to use them as you li
 - **Game Dev**
 
 # Currently situation 😵
-- Learning React
+- Learning Angular
 - Working on App development
 

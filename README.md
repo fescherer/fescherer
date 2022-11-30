@@ -16,7 +16,7 @@ Here are some of my projects and a lot of tests, feel free to use them as you li
 - **Game Dev**
 
 # Currently situation 😵
-- Learning Angular
+- Learning React JS and Next JS
 - Working on App development
 
 [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipescherer&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

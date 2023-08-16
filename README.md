@@ -19,5 +19,5 @@ Here are some of my projects and a lot of tests, feel free to use them as you li
 - Learning React JS and Next JS
 - Working on App development
 
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipescherer&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![card](https://github-readme-stats.vercel.app/api?username=ofelipescherer&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=fescherer&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=fescherer&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
